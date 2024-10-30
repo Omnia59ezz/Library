@@ -1,0 +1,281 @@
+{
+  "users": [
+    {
+      "id": "1747",
+      "name": "moatazadmin",
+      "email": "moataz@gmail.com",
+      "password": "123",
+      "type": "admin"
+    },
+    {
+      "id": "e409",
+      "name": "moataz",
+      "email": "moatazz@gmail.com",
+      "password": "123",
+      "type": "user"
+    },
+    {
+      "id": "12f0",
+      "name": "ossama",
+      "email": "ossama@gmail.com",
+      "password": "123",
+      "type": "user"
+    },
+    {
+      "id": "b339",
+      "name": "ahmed",
+      "email": "ahmed@gmail.com",
+      "password": "123",
+      "type": "user"
+    },
+    {
+      "id": "8e08",
+      "name": "ahmed",
+      "email": "ahmed@gmail.com",
+      "password": "123",
+      "type": "user"
+    },
+    {
+      "id": "c395",
+      "name": "mareez",
+      "email": "mareez@gmail.com",
+      "password": "Mareez123456789@",
+      "type": "user"
+    },
+    {
+      "id": "c395",
+      "name": "user",
+      "email": "user@gmail.com",
+      "password": "user123",
+      "type": "user"
+    },
+    {
+      "id": "c395",
+      "name": "admiin",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "type": "admin"
+    }
+  ],
+  "books": [
+    {
+      "id": "1",
+      "name": "To Kill ",
+      "author": "Mareeez",
+      "description": "A novel about the serious issues of rape and racial inequality in the American South.",
+      "price": 9.98,
+      "image": "assets/imagesBackground/Harry Potter.jpeg"
+    },
+    {
+      "id": "2",
+      "name": "1984",
+      "author": "George Orwell",
+      "description": "A dystopian novel set in a totalitarian society ruled by Big Brother.",
+      "price": 8.99,
+      "image": "assets/imagesBackground/Harry Potter.jpeg"
+    },
+    {
+      "id": "3",
+      "name": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "description": "A novel about the American dream and the roaring twenties.",
+      "price": 10.99,
+      "image": "assets/imagesBackground/Harry Potter.jpeg"
+    },
+    {
+      "id": "4",
+      "name": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "description": "A classic novel of manners that explores the issues of marriage, money, and love.",
+      "price": 7.99,
+      "image": "assets/imagesBackground/Harry Potter.jpeg"
+    },
+    {
+      "id": "5",
+      "name": "Moby-Dick",
+      "author": "Herman Melville",
+      "description": "An epic tale of the quest for revenge against the white whale, Moby Dick.",
+      "price": 11.99,
+      "image": "assets/imagesBackground/Harry Potter.jpeg"
+    },
+    {
+      "id": "6",
+      "name": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "description": "The first book in the Harry Potter series, where Harry discovers he is a wizard.",
+      "price": 12.99,
+      "image": "assets/imagesBackground/Harry Potter.jpeg"
+    },
+    {
+      "id": "7",
+      "name": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "description": "A fantasy novel that follows the quest of Bilbo Baggins as he embarks on an unexpected journey.",
+      "price": 10.49,
+      "image": "assets/imagesBackground/Harry Potter.jpeg"
+    },
+    {
+      "id": "8",
+      "name": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "description": "A novel about the teenage angst and alienation of Holden Caulfield.",
+      "price": 9.49,
+      "image": "assets/imagesBackground/Harry Potter.jpeg"
+    },
+    {
+      "id": "9",
+      "name": "The Lord of the Rings: The Fellowship of the Ring",
+      "author": "J.R.R. Tolkien",
+      "description": "The first part of the epic fantasy trilogy, where Frodo begins his journey to destroy the One Ring.",
+      "price": 14.99,
+      "image": "assets/imagesBackground/Harry Potter.jpeg"
+    },
+    {
+      "id": "10",
+      "name": "The Alchemist",
+      "author": "Paulo Coelho",
+      "description": "A philosophical novel about a young shepherd's journey to find his personal legend.",
+      "price": 8.99,
+      "image": "assets/imagesBackground/Harry Potter.jpeg"
+    },
+    {
+      "id": "11",
+      "name": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "description": "A mystery thriller that follows Robert Langdon's investigation into a murder in the Louvre Museum.",
+      "price": 10.99,
+      "image": "assets/imagesBackground/Harry Potter.jpeg"
+    },
+    {
+      "id": "12",
+      "name": "The Girl with the Dragon Tattoo",
+      "author": "Stieg Larsson",
+      "description": "A mystery novel that introduces Lisbeth Salander, a brilliant hacker with a troubled past.",
+      "price": 11.49,
+      "image": "assets/imagesBackground/Harry Potter.jpeg"
+    },
+    {
+      "id": "13",
+      "name": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "description": "A dystopian novel about a televised death match in a future society.",
+      "price": 9.99,
+      "image": "assets/imagesBackground/Harry Potter.jpeg"
+    },
+    {
+      "id": "14",
+      "name": "The Book Thief",
+      "author": "Markus Zusak",
+      "description": "A novel set in Nazi Germany, narrated by Death, about a young girl who steals books.",
+      "price": 12.49,
+      "image": "assets/imagesBackground/Harry Potter.jpeg"
+    },
+    {
+      "id": "15",
+      "name": "Gone Girl",
+      "author": "Gillian Flynn",
+      "description": "A psychological thriller about the disappearance of Amy Dunne and the unraveling of her marriage.",
+      "price": 11.99,
+      "image": "assets/imagesBackground/Harry Potter.jpeg"
+    },
+    {
+      "id": "16",
+      "name": "The Shining",
+      "author": "Stephen King",
+      "description": "A horror novel about the haunted Overlook Hotel and its impact on the Torrance family.",
+      "price": 9.99,
+      "image": "assets/imagesBackground/Harry Potter.jpeg"
+    },
+    {
+      "id": "17",
+      "name": "The Kite Runner",
+      "author": "Khaled Hosseini",
+      "description": "A novel about the friendship between two boys in Afghanistan and the impact of betrayal.",
+      "price": 10.99,
+      "image": "assets/imagesBackground/Harry Potter.jpeg"
+    },
+    {
+      "id": "18",
+      "name": "Life of Pi",
+      "author": "Yann Martel",
+      "description": "A fantasy adventure novel about a boy who survives a shipwreck and is stranded on a lifeboat with a Bengal tiger.",
+      "price": 8.49,
+      "image": "assets/imagesBackground/Harry Potter.jpeg"
+    },
+    {
+      "id": "19",
+      "name": "The Road",
+      "author": "Cormac McCarthy",
+      "description": "A post-apocalyptic novel about a father and son's survival journey across a barren landscape.",
+      "price": 9.49,
+      "image": "assets/imagesBackground/Harry Potter.jpeg"
+    },
+    {
+      "id": "20",
+      "name": "The Fault in Our Stars",
+      "author": "John Green",
+      "description": "A novel about the love story of two teenagers who meet in a cancer support group.",
+      "price": 8.99,
+      "image": "assets/imagesBackground/Harry Potter.jpeg"
+    },
+    {
+      "id": "21",
+      "name": "A Game of Thrones",
+      "author": "George R.R. Martin",
+      "description": "The first book in the A Song of Ice and Fire series, set in a fantasy world of political intrigue and war.",
+      "price": 13.99,
+      "image": "assets/imagesBackground/Harry Potter.jpeg"
+    },
+    {
+      "id": "22",
+      "name": "The Maze Runner",
+      "author": "James Dashner",
+      "description": "A dystopian novel about a group of teenagers trapped in a maze with no memory of how they got there.",
+      "price": 9.99,
+      "image": "assets/imagesBackground/Harry Potter.jpeg"
+    },
+    {
+      "id": "23",
+      "name": "Dune",
+      "author": "Frank Herbert",
+      "description": "A science fiction epic about the desert planet Arrakis and the battle for control of its valuable spice.",
+      "price": 12.99,
+      "image": "assets/imagesBackground/Harry Potter.jpeg"
+    },
+    {
+      "id": "24",
+      "name": "The Handmaid's Tale",
+      "author": "Margaret Atwood",
+      "description": "A dystopian novel set in a totalitarian society where women are subjugated and used for reproduction.",
+      "price": 10.49,
+      "image": "assets/imagesBackground/Harry Potter.jpeg"
+    },
+    {
+      "id": "25",
+      "name": "The Catch-22",
+      "author": "Joseph Heller",
+      "description": "A satirical novel about the absurdity of war, following the experiences of Captain John Yossarian during World War II.",
+      "price": 9.99,
+      "image": "assets/imagesBackground/Harry Potter.jpeg"
+    }
+  ],
+  "orders": [
+    {
+      "id": "6eaa",
+      "moataz": [
+        {
+          "name": "1984",
+          "price": 8.99,
+          "quantity": 4,
+          "image": "assets/imagesBackground/Harry Potter.jpeg"
+        },
+        {
+          "name": "The Great Gatsby",
+          "price": 10.99,
+          "quantity": 4,
+          "image": "assets/imagesBackground/Harry Potter.jpeg"
+        }
+      ]
+    }
+  ]
+}
